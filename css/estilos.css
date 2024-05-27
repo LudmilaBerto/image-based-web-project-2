@@ -38,6 +38,11 @@ main{
     color: #7e8385;
     text-align: center;
     padding-top: 8px;
+    padding-bottom: 40px;
     margin-right: 8px;
 
+}
+.dos{
+    padding: 50px 0 ;
+    border-top: solid #7e838590 1px;
 }
