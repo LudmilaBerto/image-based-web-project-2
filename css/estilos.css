@@ -53,9 +53,34 @@ main{
     font-size: 18px;
 }
 input[type=email]{
-    padding: 10px 140px;
+    padding: 12px 140px;
     margin-top: 10px;
     margin-right: 13px;
+    margin-bottom: 15px;
     border: 1px solid #7e838590;
-    border-radius: 5px;
+    border-radius: 6px;
+}
+.password{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+input[type=password]{
+    padding: 12px 140px;
+    margin-top: 10px;
+    margin-right: 13px;
+    margin-bottom: 15px;
+    border: 1px solid #7e838590;
+    border-radius: 6px;
+}
+button{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    background-color:#377bf4 ;
+    color: #fefeff;
+    padding: 12px 205px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 9px;
 }
